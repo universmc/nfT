@@ -1,0 +1,180 @@
+{
+    "nftProject": {
+      "generalInfo": {
+        "title": "Découvrez l'art numérique révolutionnaire avec Gemini !",
+        "message": "Plongez dans le monde fascinant des NFTs avec nos créations uniques générées par notre IA, Gemini. Chaque NFT est une œuvre d'art numérique originale, et pour une durée limitée, vous pouvez posséder un morceau de cette innovation pour seulement 1€ ! En rejoignant notre communauté, vous aurez accès à un guide gratuit pour apprendre à créer vos propres NFTs.",
+        "hashtags": ["#NFT", "#QiStore", "#ArtNumérique", "#Blockchain", "#Innovation", "#GeminiArt"]
+      },
+      "phases": [
+        {
+          "name": "Phase 1 : Conception et Développement",
+          "tasks": [
+            {
+              "title": "Définition précise des NFT",
+              "description": "Déterminer les caractéristiques uniques de vos NFT (thème, style artistique, rareté).",
+              "objectivesSMART": {
+                "specific": "Identifier trois caractéristiques uniques pour chaque série de NFT.",
+                "measurable": "Avoir un document listant les caractéristiques pour 100% des NFT prévus.",
+                "achievable": "Utiliser des ateliers créatifs avec l'équipe pour définir les caractéristiques.",
+                "relevant": "Assurer que les caractéristiques sont alignées avec les tendances actuelles du marché NFT.",
+                "timeBound": "Terminer cette tâche dans les deux premières semaines du projet."
+              }
+            },
+            {
+              "title": "Création d'un générateur de NFT",
+              "description": "Développer un outil (en utilisant un langage comme Python ou JavaScript) pour générer automatiquement des NFT en fonction de paramètres définis.",
+              "objectivesSMART": {
+                "specific": "Développer un générateur capable de créer au moins 100 NFT par jour.",
+                "measurable": "Le générateur doit passer tous les tests unitaires et d'intégration.",
+                "achievable": "Utiliser des bibliothèques existantes pour accélérer le développement.",
+                "relevant": "Assurer l'efficacité et la personnalisation du processus de création de NFT.",
+                "timeBound": "Compléter le développement du générateur dans le premier mois."
+              }
+            },
+            {
+              "title": "Intégration d'une marketplace",
+              "description": "Choisir une plateforme de vente de NFT et configurer votre profil de vendeur.",
+              "objectivesSMART": {
+                "specific": "Sélectionner et intégrer avec succès une marketplace populaire pour NFTs.",
+                "measurable": "Le profil de vendeur doit être actif et validé par la marketplace choisie.",
+                "achievable": "Rechercher et comparer au moins trois marketplaces avant de prendre une décision.",
+                "relevant": "Choisir une plateforme qui maximise l'exposition et les ventes potentielles.",
+                "timeBound": "Finaliser l'intégration dans les trois premières semaines."
+              }
+            },
+            {
+              "title": "Développement du site web",
+              "description": "Créer un site web attractif pour présenter vos NFT et faciliter les achats.",
+              "objectivesSMART": {
+                "specific": "Développer un site web avec une galerie, une section blog, et une page de paiement.",
+                "measurable": "Le site doit être testé et opérationnel avec un temps de chargement inférieur à 3 secondes.",
+                "achievable": "Utiliser des thèmes et plugins existants pour WordPress ou équivalent.",
+                "relevant": "Assurer que le site est convivial et optimise l'expérience utilisateur.",
+                "timeBound": "Lancer le site web d'ici la fin du deuxième mois."
+              }
+            },
+            {
+              "title": "Mise en place d'un système de paiement",
+              "description": "Intégrer un système de paiement sécurisé (crypto-monnaies, PayPal).",
+              "objectivesSMART": {
+                "specific": "Intégrer au moins deux options de paiement, y compris crypto-monnaies.",
+                "measurable": "Tester et valider 100% des transactions lors de la phase de test.",
+                "achievable": "Utiliser des API de paiement sécurisées et bien documentées.",
+                "relevant": "Faciliter les achats pour un public mondial.",
+                "timeBound": "Avoir le système de paiement opérationnel dans les quatre premières semaines."
+              }
+            },
+            {
+              "title": "Création d'un wallet numérique",
+              "description": "Permettre aux utilisateurs de stocker leurs NFT en toute sécurité.",
+              "objectivesSMART": {
+                "specific": "Implémenter un wallet numérique compatible avec les principaux standards NFT.",
+                "measurable": "Le wallet doit être testé avec succès par au moins 10 utilisateurs.",
+                "achievable": "Utiliser des solutions open-source pour faciliter le développement.",
+                "relevant": "Assurer la sécurité et la facilité d'utilisation pour tous les utilisateurs.",
+                "timeBound": "Finaliser le développement du wallet dans le premier mois et demi."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Phase 2 : Lancement et Marketing",
+          "tasks": [
+            {
+              "title": "Pré-lancement",
+              "description": "Créer une communauté autour de votre projet sur les réseaux sociaux et organiser des événements pour générer de l'engouement.",
+              "objectivesSMART": {
+                "specific": "Atteindre 1000 abonnés sur les réseaux sociaux avant le lancement.",
+                "measurable": "Organiser au moins 3 événements en ligne avant le lancement.",
+                "achievable": "Collaborer avec des influenceurs pour promouvoir les événements.",
+                "relevant": "Construire une base de fans engagée avant de lancer les NFT.",
+                "timeBound": "Terminer ces actions deux semaines avant le lancement officiel."
+              }
+            },
+            {
+              "title": "Lancement officiel",
+              "description": "Annoncer le lancement de votre collection de NFT avec une campagne marketing ciblée.",
+              "objectivesSMART": {
+                "specific": "Lancer une campagne marketing sur trois plateformes différentes.",
+                "measurable": "Atteindre un taux d'engagement de 5% sur les annonces publicitaires.",
+                "achievable": "Utiliser des publicités ciblées et des contenus créatifs.",
+                "relevant": "Augmenter la visibilité et stimuler les ventes initiales.",
+                "timeBound": "Lancer la campagne le jour du lancement officiel."
+              }
+            },
+            {
+              "title": "Suivi des performances",
+              "description": "Mettre en place des outils de suivi pour analyser les ventes, l'engagement de la communauté et l'efficacité de vos campagnes marketing.",
+              "objectivesSMART": {
+                "specific": "Utiliser Google Analytics et les outils de la marketplace pour le suivi des performances.",
+                "measurable": "Analyser les données hebdomadaires des ventes et de l'engagement.",
+                "achievable": "Former l'équipe à l'utilisation des outils d'analyse.",
+                "relevant": "Optimiser continuellement les stratégies marketing et de vente.",
+                "timeBound": "Avoir des rapports hebdomadaires dès le lancement officiel."
+              }
+            },
+            {
+              "title": "Optimisation",
+              "description": "Ajuster votre stratégie en fonction des résultats obtenus.",
+              "objectivesSMART": {
+                "specific": "Effectuer un audit mensuel des performances et ajuster les tactiques.",
+                "measurable": "Améliorer les KPI de 10% chaque mois après le lancement.",
+                "achievable": "Utiliser les feedbacks et les données pour ajuster les stratégies.",
+                "relevant": "Maximiser l'efficacité des campagnes et des ventes.",
+                "timeBound": "Réaliser les ajustements dès le premier mois après le lancement."
+              }
+            }
+          ]
+        },
+        {
+          "name": "Phase 3 : Croissance et Scalabilité",
+          "tasks": [
+            {
+              "title": "Diversification des produits",
+              "description": "Proposer de nouvelles collections de NFT pour maintenir l'intérêt de votre communauté.",
+              "objectivesSMART": {
+                "specific": "Lancer au moins deux nouvelles collections de NFT chaque trimestre.",
+                "measurable": "Augmenter l'engagement de la communauté de 20% avec chaque nouvelle collection.",
+                "achievable": "Analyser les tendances du marché pour proposer des collections pertinentes.",
+                "relevant": "Maintenir l'intérêt et la fidélité de la communauté.",
+                "timeBound": "Lancer la première collection dans les trois mois suivant le lancement initial."
+              }
+            },
+            {
+              "title": "Partenariats",
+              "description": "Collaborer avec d'autres créateurs, influenceurs ou marques pour élargir votre audience.",
+              "objectivesSMART": {
+                "specific": "Établir au moins trois collaborations stratégiques par an.",
+                "measurable": "Augmenter le réseau d'abonnés de 15% grâce aux partenariats.",
+                "achievable": "Identifier et contacter des partenaires potentiels dans le secteur.",
+                "relevant": "Élargir l'audience et augmenter la visibilité des NFT.",
+                "timeBound": "Conclure le premier partenariat dans les deux mois suivant le lancement."
+              }
+            },
+            {
+              "title": "Événements en ligne et hors ligne",
+              "description": "Organiser des événements virtuels et physiques pour renforcer votre communauté et générer de nouvelles ventes.",
+              "objectivesSMART": {
+                "specific": "Organiser au moins cinq événements en ligne et deux événements hors ligne par an.",
+                "measurable": "Atteindre une participation de 100 personnes à chaque événement.",
+                "achievable": "Utiliser des plateformes de streaming et événements locaux.",
+                "relevant": "Renforcer la communauté et stimuler les ventes.",
+                "timeBound": "Planifier le premier événement dans le premier mois après le lancement."
+              }
+            },
+            {
+              "title": "Internationalisation",
+              "description": "Cibler de nouveaux marchés pour augmenter votre portée.",
+              "objectivesSMART": {
+                "specific": "Entrer dans trois nouveaux marchés internationaux dans l'année.",
+                "measurable": "Augmenter la part des ventes internationales de 25%.",
+                "achievable": "Adapter les campagnes marketing aux cultures locales.",
+                "relevant": "Augmenter la portée et les ventes globales.",
+                "timeBound": "Cibler le premier marché international dans les six mois suivant le lancement."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }

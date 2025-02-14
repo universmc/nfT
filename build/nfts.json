@@ -1,0 +1,28 @@
+{
+    "projetNFT": {
+      "titre": "NFTmanager",
+      "description": "NFTmanager, Collection d'œuvres d'art numériques uniques",
+      "NFT": [
+        {
+          "id": 1,
+          "nom": "NFT1",
+          "description": "Description détaillée du NFT",
+          "image": "url_de_l'image.png",
+          "proprietaire": "adresse_du_portefeuille",
+          "prix": 1,
+          "date_de_creation": "2023-11-22",
+          "vente": {
+            "date": "2023-11-25",
+            "prix_vente": 1,
+            "acheteur": "adresse_du_nouvel_acheteur"
+          }
+        }
+      ],
+      "ventes_total": 1000,
+      "revenu_total": 1500,
+      "statistiques": {
+        "ventes_par_jour": [10, 20, 15],
+        "NFT_les_plus_vendus": ["NFT1", "NFT3"]
+      }
+    }
+  }

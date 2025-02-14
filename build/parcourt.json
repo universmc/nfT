@@ -1,0 +1,33 @@
+{
+    "name": "Création d'un générateur de NFT",
+    "description": "Développer un outil (en utilisant un langage comme Python ou JavaScript) pour générer automatiquement des NFT en fonction de paramètres définis.",
+    "objectivesSMART": {
+      "specific": "Développer un générateur capable de créer au moins 100 NFT par jour.",
+      "measurable": "Le générateur doit passer tous les tests unitaires et d'intégration.",
+      "achievable": "Utiliser des bibliothèques existantes pour accélérer le développement.",
+      "relevant": "Assurer l'efficacité et la personnalisation du processus de création de NFT.",
+      "timeBound": "Compléter le développement du générateur dans le premier mois."
+    },
+    "planAction": [
+      {
+        "tache": "Choisir une technologie de développement (Python, JavaScript, etc.)",
+        "delai": "Semaine 1"
+      },
+      {
+        "tache": "Définir l'architecture du générateur",
+        "delai": "Semaine 2"
+      },
+      {
+        "tache": "Développer les fonctionnalités de base (génération de formes, couleurs, textures)",
+        "delai": "Semaine 3-4"
+      },
+      {
+        "tache": "Intégrer l'IA pour la génération de variations",
+        "delai": "Semaine 5"
+      },
+      {
+        "tache": "Tester et optimiser le générateur",
+        "delai": "Semaine 6"
+      }
+    ]
+  }
